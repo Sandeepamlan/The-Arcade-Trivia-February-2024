@@ -8,7 +8,7 @@ export REGION=
 
 
 ```
-curl -LO raw.githubusercontent.com/Sandeepamlan/TheArcade/master/App%20Engine%20Qwik%20Start%20Java/GSP068.sh
+curl -LO raw.githubusercontent.com/Sandeepamlan/The-Arcade-Trivia-February-2024/blob/main/The-Arcade-Trivia-February-week-1/GSP068.sh
 
 sudo chmod +x GSP068.sh
 
