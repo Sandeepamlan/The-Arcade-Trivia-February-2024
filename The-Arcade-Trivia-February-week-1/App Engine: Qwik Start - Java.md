@@ -8,7 +8,7 @@ export REGION=
 
 
 ```
-curl -LO raw.githubusercontent.com/Sandeepamlan/The-Arcade-Trivia-February-2024/blob/main/The-Arcade-Trivia-February-week-1/GSP068.sh
+curl -LO raw.githubusercontent.com/Sandeepamlan/The-Arcade-Trivia-February-2024/main/The-Arcade-Trivia-February-week-1/GSP068.sh
 
 sudo chmod +x GSP068.sh
 
